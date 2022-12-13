@@ -2,6 +2,6 @@
 
 <style lang="scss">
     .ribbon {
-        flex-grow: 0.075;
+        flex-grow: 0.025;
     }
 </style>
